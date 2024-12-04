@@ -1,11 +1,11 @@
 import { useState } from 'react';
 import './App.css';
-import Nav from './components/Nav.jsx'
+import LeftBar from './components/LeftBar.jsx'
 
 function App() {
   return (
    <>
-    <Nav/>
+    <LeftBar/>
    </>
   );
 }
